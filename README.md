@@ -4,12 +4,12 @@ A Python script that fetches images from the web and downloads them to your loca
 
 # Table of Contents
 
-1. #introduction
-2. #features
-3. #requirements
-4. #usage
-5. #how-it-works
-6. #troubleshooting
+1. introduction
+2. features
+3. requirements
+4. usage
+5. how-it-works
+6. troubleshooting
 
 # Introduction
 
